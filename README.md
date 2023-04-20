@@ -22,7 +22,7 @@ This project is meant to be built using Android Studio. It can also be built fro
 
 1. Check out the source code:
 
-        git clone https://github.com/buddha2044/edx-app-android-release-3.0.2
+        git clone https://github.com/buddha2044/edx-app-android
 
 2. Setup the Android Studio. The latest tested Android Studio version is v3.3.2, you can download it from [the previous versions archive](https://developer.android.com/studio/archive). (You can find further details to run the project on the said version of Android Studio on this [PR](https://github.com/edx/edx-app-android/pull/1264).
 
